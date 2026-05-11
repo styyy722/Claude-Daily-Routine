@@ -1,15 +1,11 @@
 # Daily Financial News Report Template
 
-Each report should be one page only.
-
-## Required report structure
-
 # Daily Financial News Report – YYYY-MM-DD
 
 ## Executive Summary
 - 3 bullet points only.
 - Focus on the most market-moving developments.
-- Avoid unnecessary detail.
+- Keep it concise.
 
 ## Market Snapshot
 
@@ -34,7 +30,7 @@ Include 5–7 bullet points covering:
 - Bond yields
 - FX, especially AUD/USD
 - Commodities
-- Major company or sector news
+- Major company, ETF, or sector news
 
 ## Investment Implications
 
@@ -46,11 +42,12 @@ Do not provide personalised financial advice.
 
 Include 3 bullet points covering what investors should monitor today.
 
-## Style rules
+## Style Rules
 
 - Professional finance tone.
 - Clear and concise.
 - Around one page.
 - Include source links where possible.
 - Do not exaggerate.
-- Do not make predictions without evidence.
+- Do not invent data.
+- Clearly state when data is unavailable.
