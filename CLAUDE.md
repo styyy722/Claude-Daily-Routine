@@ -18,6 +18,20 @@ Each routine run must generate **two** new markdown reports for the **previous c
 
 Do **not** re-use or re-send any report from a date other than the target date.
 
+## Saving and committing to GitHub
+
+After generating both report files, commit and push them to the GitHub repository:
+
+```
+git add outputs/daily-finance/YYYY-MM-DD-financial-news-report.md outputs/daily-finance/YYYY-MM-DD-financial-news-report-zh.md
+git commit -m "Add daily financial news reports for YYYY-MM-DD"
+git push origin main
+```
+
+- Only add the two report files for the target date — do not add any other files.
+- If a report already existed and was not regenerated, skip adding that file to the commit.
+- If both files already existed, skip the commit entirely.
+
 ## Report rules
 
 - English report: use the template in `templates/daily-financial-report-template.md`.
