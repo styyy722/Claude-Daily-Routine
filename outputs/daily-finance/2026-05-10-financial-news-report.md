@@ -14,18 +14,20 @@
 
 ## Market Snapshot
 
-| Asset | Level | Change |
-|---|---|---|
-| S&P 500 | 7,398.93 | +0.84% |
-| Nasdaq Composite | 26,247.08 | +1.71% |
-| Dow Jones | 49,609.16 | +0.02% |
-| ASX 200 | 8,744.40 | +0.17% (weekly) |
-| AUD/USD | 0.7250 | +0.54% |
-| US 10-yr yield | ~4.39% | –3 bps (approx.) |
-| Gold | $4,730.70/oz | +0.74% |
-| Brent Crude | $101.29/bbl | –2.05% |
-| WTI Crude | $95.42/bbl | –2.38% |
-| Iron Ore | $110.93/t | –0.02% |
+```
+Asset              | Level           | Change
+-------------------|-----------------|-------------------------
+S&P 500            | 7,398.93        | +0.84%
+Nasdaq Composite   | 26,247.08       | +1.71%
+Dow Jones          | 49,609.16       | +0.02%
+ASX 200            | 8,744.40        | +0.17% (weekly)
+AUD/USD            | 0.7250          | +0.54%
+US 10-Yr Yield     | ~4.39%          | -3 bps (approx.)
+Gold               | $4,730.70/oz    | +0.74%
+Brent Crude        | $101.29/bbl     | -2.05%
+WTI Crude          | $95.42/bbl      | -2.38%
+Iron Ore           | $110.93/t       | -0.02%
+```
 
 *Sources: [FNArena Monday Report 11 May 2026](https://fnarena.com/index.php/2026/05/11/the-monday-report-11-may-2026/), [Yahoo Finance – ASX 200](https://au.finance.yahoo.com/quote/%5EAXJO/), [CNBC Markets](https://www.cnbc.com/2026/05/08/stock-market-next-week-outlook-for-may-11-15-2026-.html)*
 

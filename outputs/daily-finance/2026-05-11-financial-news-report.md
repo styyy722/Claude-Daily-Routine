@@ -7,17 +7,19 @@
 
 ## Market Snapshot
 
-| Asset | Level | Change |
-|---|---|---|
-| S&P 500 | 7,412.84 | +0.19% (record close) |
-| Nasdaq Composite | 26,274.13 | +0.10% (record close) |
-| Dow Jones | 49,704.47 | +0.19% |
-| ASX 200 | 8,744 | -1.50% (-134 pts) |
-| AUD/USD | 0.7245 | -0.06% |
-| US 10-Year Yield | 4.41% | +5 bps |
-| Gold (spot) | ~$4,742/oz | Lower on day |
-| Oil (Brent) | ~$105/bbl | +2%+ |
-| Iron Ore | >$100/t | +~3% |
+```
+Asset              | Level           | Change
+-------------------|-----------------|-------------------------
+S&P 500            | 7,412.84        | +0.19% ✦ record close
+Nasdaq Composite   | 26,274.13       | +0.10% ✦ record close
+Dow Jones          | 49,704.47       | +0.19%
+ASX 200            | 8,744           | -1.50% (-134 pts)
+AUD/USD            | 0.7245          | -0.06%
+US 10-Year Yield   | 4.41%           | +5 bps
+Gold (spot)        | ~$4,742/oz      | Lower on day
+Oil (Brent)        | ~$105/bbl       | +2%+
+Iron Ore           | >$100/t         | +~3%
+```
 
 ## Key Financial News
 

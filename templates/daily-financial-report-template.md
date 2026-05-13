@@ -9,16 +9,24 @@
 
 ## Market Snapshot
 
-Include a concise markdown table covering:
-- S&P 500
-- Nasdaq
-- Dow Jones
-- ASX 200, if available
-- AUD/USD
-- US 10-year yield
-- Gold
-- Oil
-- Iron ore, if available
+Format the Market Snapshot as a **code block table** (wrapped in triple backticks) with columns aligned using spaces. This renders correctly in both Discord and GitHub. Example structure:
+
+```
+Asset              | Level           | Change
+-------------------|-----------------|-------------------------
+S&P 500            | 7,412.60        | +0.12%
+Nasdaq 100         | 29,139.00       | +0.29%
+Dow Jones          | 49,782.10       | -0.04%
+ASX 200            | 8,684.40        | -0.20%
+AUD/USD            | 0.7223          | -0.37%
+US 10-Yr Yield     | ~4.42%          | ↑ (1-week high)
+Gold               | $4,708/oz       | -$10.15
+Oil (WTI)          | $101.53/bbl     | +$3.46 (+3.5%)
+Iron Ore           | ~$111.42/T      | +0.44%
+```
+
+Cover: S&P 500, Nasdaq, Dow Jones, ASX 200 (if available), AUD/USD, US 10-year yield, Gold, Oil, Iron ore (if available).
+Use `—` or "N/A" if data is unavailable. Do not use a markdown pipe table.
 
 ## Key Financial News
 

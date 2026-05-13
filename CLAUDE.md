@@ -44,6 +44,10 @@ git push origin main
 - Do not provide personalised financial advice.
 - Save only the final report files.
 
+## Table formatting
+
+The Market Snapshot table **must** be formatted as a code block (wrapped in triple backticks) with columns aligned using spaces — not as a markdown pipe table. This ensures the table renders correctly in Discord. See the templates for the exact format.
+
 ## Suggested public sources
 
 Use reliable public sources to research the target date's market activity:
